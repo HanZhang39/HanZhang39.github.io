@@ -12,9 +12,9 @@ title                    : "Han's Research Site"
 title_separator          : "-"
 name                     : &name "Han Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://HanZhang39.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "HanZhang39/HanZhang39.github.io"
 
 logo: "site-logo.png"
 
